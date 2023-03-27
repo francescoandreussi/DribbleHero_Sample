@@ -1,0 +1,8 @@
+Binaries/
+Intermediate/
+DerivedDataCache/
+Platforms/
+Saved/
+.vs/
+.vsconfig
+.log
